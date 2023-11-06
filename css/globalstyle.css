@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "regular";
+    src: url("../assets/fonts/ClashGrotesk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "bold";
+    src: url("../assets/fonts/ClashGrotesk-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "ex-light";
+    src: url("../assets/fonts/ClashGrotesk-Extralight.woff2") format("woff2");
+}
+@font-face {
+    font-family: "light";
+    src: url("../assets/fonts/ClashGrotesk-Light.woff2") format("woff2");
+}
+@font-face {
+    font-family: "medium";
+    src: url("../assets/fonts/ClashGrotesk-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "semi-bold";
+    src: url("../assets/fonts/ClashGrotesk-Semibold.woff2") format("woff2");
+}
+
+
+html{
+    overflow-x: hidden;
+}
+body{
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
